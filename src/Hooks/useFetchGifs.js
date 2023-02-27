@@ -19,7 +19,7 @@ import { getGifs } from '../helpers/getGifs';
 
    return {
      images,
-     isLoading: false
+     isLoading
    }
  }
  
